@@ -1,0 +1,11 @@
+li{
+    border: none;
+}
+.hide{
+
+display: none;
+}
+.filtered{
+
+    display: block
+}
